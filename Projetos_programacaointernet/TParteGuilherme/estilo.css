@@ -1,0 +1,145 @@
+.ImgLogoFia{
+    width:120;
+
+}
+
+.tituloH2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 10px;
+    left: 170px;
+}
+
+.TamanhoLogoF1{
+    width: 260px;
+}
+.ImgLogoF1{
+    top: -90px;
+    left: 900;
+    position: absolute;
+    
+}
+
+.desdeX{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    top: 9px;
+    left: 1150;
+    position: absolute;
+    }
+
+.tituloclassificacao{
+    width: 1350px;
+    height: 50px;
+    background-color:#9CAEC2;
+
+}
+
+.tabelaf1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    display: block;
+    margin: 0;
+    
+}
+
+.tabelaPrincipal{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #4B1212;
+    border: 0px solid white;
+    border-collapse:collapse;
+    padding: 50px;
+    width: 1050px;
+    top : 50px;
+    margin: 0px;
+    
+}
+
+.TabelaCentro{
+    position: relative;
+    left: 150px;
+}
+
+th, td {
+    border-bottom: 1px solid #9CAEC2;
+  }
+
+.imgFlag{
+     width: 20px;
+     
+}
+
+.imgEquipe{
+    width: 80px;
+}
+
+.primeiraLinha{
+    text-align: center;
+    font-size: 15px;
+        text-align: center;
+        color: #003366;
+        background-color: #9CAEC2 ;
+}
+
+.LinhaBack{
+    background-color: #f2f2f2;
+}
+
+tb{
+    text-align: center;
+    
+}
+
+tr{
+    text-align: center;
+}
+
+.NomePosicao{
+    font-size: 18px;
+        text-align: center;
+        color: #003366;
+        background-color: #9CAEC2 ;
+        border-bottom: 1px solid #9CAEC2;
+}
+
+.NomePiloto{
+    text-align: left;
+}
+
+.NomeConstrutor{
+    text-align: left;
+}
+
+.NomeEquipe{
+    text-align: center;
+}
+
+.tabelaPrincipal2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #4B1212;
+    border: 0px solid white;
+    border-collapse:collapse;
+    padding: 50px;
+    width: 700px;
+    top : 50px;
+    margin: 0px;
+    
+}
+
+.imgTrophy{
+    width: 400px;
+    position: relative;
+    top: -350px;
+    left: 800px;
+ }
+.testeMax{
+    width: 400px;
+    position: relative;
+    top: -350px;
+    left: 800px;
+    
+}
+
+
+
+
+
